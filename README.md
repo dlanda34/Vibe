@@ -1,2 +1,4 @@
-# iosTemplate-sdk
-ios template for app
+# Vibe
+
+social media app
+
